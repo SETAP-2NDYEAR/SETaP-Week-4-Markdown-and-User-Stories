@@ -6,3 +6,5 @@
 > Cares have to be assigned to a patient so they cant get a hold of unnecessary prescriptions. Separate interface for carers. Parents can be assigned to anyone under 18. Cares can take on multiple patients at once 
 4. "What information about a user do you need to save?"
 > You'd need to save their name, date of birth, NHS number, medication, the doctor/hospital address, and how frequently on should take certain drugs.
+5."What would be the age range of the users of our system?"
+> All ages,the average user will be 25 years old.
