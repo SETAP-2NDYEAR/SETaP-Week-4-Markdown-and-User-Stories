@@ -4,3 +4,5 @@
 > A patient able to consent can set up their account, or a carer can do it on their behalf. A GP must be tied to the patient's account, and must confirm that it is set up correctly.
 3. "Would there be a seprate system to allow for a carer to control multiple patients prescriptions?"
 > Cares have to be assigned to a patient so they cant get a hold of unnecessary prescriptions. Separate interface for carers. Parents can be assigned to anyone under 18. Cares can take on multiple patients at once 
+4. "What information about a user do you need to save?"
+> You'd need to save their name, date of birth, NHS number, medication, the doctor/hospital address, and how frequently on should take certain drugs.
